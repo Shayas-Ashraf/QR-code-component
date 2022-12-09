@@ -1,5 +1,6 @@
 # Solution
 gitHub Repo: https://github.com/Shayas-Ashraf/QR-code-component
+
 live Preview: https://shayas-ashraf.github.io/QR-code-component/
 
 # Frontend Mentor - QR code component
